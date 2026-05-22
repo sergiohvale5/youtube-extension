@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "OAuth Teste",
+  "version": "1.0",
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "identity"
+  ],
+
+  "host_permissions": [
+    "https://accounts.google.com/*",
+    "https://www.googleapis.com/*"
+  ],
+
+  "oauth2": {
+    "client_id": "877879942258-hh4havcnn9288n4n6i3okikhieetanau.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/youtube.force-ssl"
+    ]
+  }
+}
