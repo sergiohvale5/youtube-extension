@@ -325,4 +325,8 @@ Permitir que criadores de conteúdo:
 ```text
 STATUS: EM DESENVOLVIMENTO
 FASE: DISCOVERY / PROVA DE CONCEITO
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> e4d6ec977d6a7e13d06892509f6452a9d8acf561
